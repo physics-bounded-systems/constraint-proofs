@@ -1,0 +1,12 @@
+{
+  "@context": "[https://schema.org](https://schema.org)",
+  "@type": "ScholarlyArticle",
+  "name": "constraint-proofs",
+  "author": {
+    "@type": "Organization",
+    "name": "physics-bounded-systems"
+  },
+  "identifier": "10.5281/zenodo.23561741",
+  "encodingFormat": "text/markdown",
+  "sha256Checksum": "127ac4f39f11730032fff268c8b6a3ecf4b70345242537203cda6f904df56091"
+}
